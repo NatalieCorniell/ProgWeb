@@ -1,0 +1,16 @@
+REPO(Azure DevOps) Proyecto Web 1
+
+Natalie Corniell -> 2019-8092
+
+online: https://prog-web-kappa.vercel.app/
+
+source code Link: https://dev.azure.com/itlaprojects/ProgramacionWeb/_git/ProyectoWeb1
+
+Branch: (Master): https://itlaprojects@dev.azure.com/itlaprojects/ProgramacionWeb/_git/ProyectoWeb1
+
+
+
+------------------------------------------------------------------------
+
+Note: Integrantes de este desarrollo: YO
+Los demas integrantes de mi grupo decidieron no ser participes.

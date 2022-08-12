@@ -1,0 +1,127 @@
+html,
+body {
+    height: 100%;
+}
+td, th, tr, button, p, a{
+    letter-spacing: normal !important;
+}
+body {
+    padding-top: 5rem;
+    background-color: #121212 !important;
+    color: #fff !important;
+}
+
+.form-signin {
+    max-width: 25rem;
+    margin: auto;
+}
+
+.form-floating input {
+    background-color: #313232;
+    border: 2px solid #03dac5;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.form-floating input:focus,
+.form-floating>.form-control:-webkit-autofill {
+    background-color: #313232 !important;
+    color: #fff;
+
+}
+
+.logo {
+    margin: auto;
+    width: 185px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+p.text-center {
+    margin-top: 1rem;
+
+}
+
+.resgisterBtn {
+    text-decoration: none;
+    color: #03dac5;
+}
+
+.resgisterBtn:hover {
+    color: #949bf8;
+}
+
+/* CRUD */
+.close{
+    background-color: #fff;
+}
+#userTable tr{
+    text-align: center;
+}
+.crud input{
+    background-color: #35363a !important;
+    border: 2px solid #949bf8;
+    color: #fff;
+
+}
+
+.table-striped>tbody>tr:nth-child(2n + 1)>td,
+.table-striped>tbody>tr:nth-child(2n + 1)>th {
+    background-color: #373636;
+    color: #949bf8;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td,
+.table-striped>tbody>tr:nth-child(even)>th {
+    background-color: #484747;
+    color: #949bf8;
+}
+
+.row .alert {
+    margin-top: 25px;
+}
+
+th,
+td {
+    border-top: none !important;
+}
+
+.head-user {
+    background-color: #590981;
+    padding: 12px;
+    border-top-right-radius: 20px;
+    font-weight: bolder;
+    letter-spacing: .1em;
+    margin: auto !important;
+}
+
+.modal-content {
+    border-radius: 0;
+}
+
+.modal-header,
+.modal-footer {
+    background-color: #333;
+    color: white;
+    border: 0;
+}
+
+.modal-body {
+    background: #2c3e50;
+    color: white;
+}
+
+.close,
+.close:hover {
+    color: white;
+}
+
+.btn {
+    font-weight: bolder;
+    letter-spacing: .2em;
+}
+#noneOff{
+    display: none;
+}
